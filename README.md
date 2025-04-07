@@ -16,6 +16,7 @@ Hello, I’m **legacy2575**. I’m a developer with a passion for creating usefu
  Feel free to check out my repositories and connect with me!
 
 - ---
+### Certifications:
 
 - ![badge](https://img.shields.io/badge/Responsive_Web_Design-FCC-orange?style=flat-square)
 
