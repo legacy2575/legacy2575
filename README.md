@@ -15,10 +15,8 @@ Hello, I’m **legacy2575**. I’m a developer with a passion for creating usefu
 - ### Projects
 - Check out some of my projects:
 -
-- - [Project 1](https://github.com/legacy2575/project1)
-- - [Project 2](https://github.com/legacy2575/project2)
 -
-- Feel free to check out my repositories and connect with me!
+ Feel free to check out my repositories and connect with me!
 -
 - ---
 -
